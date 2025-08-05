@@ -6,7 +6,7 @@ Built on Mindstudio
 
 Quote Creator is a smart content assistant that instantly produces original inspirational quotes paired with custom AI-generated background images—formatted and styled for social media. Creators get instant shareables without the creative bottleneck: no hunting for words, backgrounds, or design skills.
 
-## 🔗 [TRY IT OUT](https://app.mindstudio.ai/agents/quote-creator--edc0ca55/run/)  
+## 🔗 [TRY IT OUT]([https://app.mindstudio.ai/agents/quote-creator--edc0ca55/run/](https://app.mindstudio.ai/agents/quote-creator--edc0ca55))  
 
 Who could use a CUSTOM version of this agent? 
 
