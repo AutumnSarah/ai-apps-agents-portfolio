@@ -1,9 +1,9 @@
-# How I Built a Retrieval Augmented Generation Agent on MindStudio:
+# How I Built a Retrieval-Augmented Generation Agent on MindStudio:
 
 1. **Create a datasource and upload some documents:** 
 
-<img width="1319" height="789" alt="Image" src="https://github.com/user-attachments/assets/4829f95c-ada6-40f7-a15c-a52ce4f0b9be" />
-I created an imaginary tech company with 5 flagship products.   
+<img width="838" height="480" alt="Image" src="https://github.com/user-attachments/assets/929d474b-1ab3-406c-9beb-399bb8aa1157" />
+<br>I created an imaginary tech company with 5 flagship products.   
 I generated documents detailing the critical information about the company and each document.   
 Upload the documents under datasource and label the datasource with a title and description. 
 <br>    
