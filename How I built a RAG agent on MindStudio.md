@@ -1,4 +1,5 @@
-# How I Built a Retrieval-Augmented Generation Agent on MindStudio:
+# How I Built a Simple Retrieval-Augmented Generation Agent 
+## on MindStudio
 
 1. **Create a datasource and upload some documents:** 
 
@@ -16,10 +17,12 @@ Upload the documents under datasource and label the datasource with a title and 
 
 <img width="1319" height="789" alt="Image" src="https://github.com/user-attachments/assets/4829f95c-ada6-40f7-a15c-a52ce4f0b9be" />  
 Use the Label, Help, and Placeholder text to inform the user how to use the agent.   
-This is the first thing the user will see. 
+This is the first thing the user will see.  
+<br>
+<br>
 
 **4\. Use the Query Data Source Block:**  
-**![][image4]**  
+<img width="694" height="503" alt="Image" src="https://github.com/user-attachments/assets/51ecebbd-2539-4c7f-82d0-2657677a1673" />  
 Use {{user\_query}} variable from the user input block is used to query the datasource.   
 The agent will search the data source for chunks of text that can be used to answer the query.   
 The result is saved to a variable named {{context\_chunks}}. 
