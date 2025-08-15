@@ -26,6 +26,7 @@ Quote Creator is a smart content assistant that instantly produces original insp
 FollowUp Writer is an email draft agent that creates a message template with meeting notes or lecture summary from a video.
 
 ## 🔗 [TRY IT OUT](https://opal.withgoogle.com/?flow=drive:/1_zZ2JQmcl-n4BWACZoXrg5FBHm_NkSQl&mode=app&shared=true)  
+<img width="1918" height="911" alt="Image" src="https://github.com/user-attachments/assets/76708462-d81f-4a41-b1a9-2624439b7691" />
 
 **Who could use an agent like this?** 
 
