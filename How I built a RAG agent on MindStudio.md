@@ -28,7 +28,7 @@ The agent will search the data source for chunks of text that can be used to ans
 The result is saved to a variable named {{context\_chunks}}. 
 
 **5\. Format a response for the user:**  
-**![][image5]**  
+<img width="725" height="582" alt="Image" src="https://github.com/user-attachments/assets/2363f47f-2b17-402e-8964-61f8764dda59" />  
 The generate text block is prompted using the query result variable, the user input variable, and   
 some additional instruction to generate a response which is displayed to the user. 
 
