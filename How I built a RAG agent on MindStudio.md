@@ -1,7 +1,7 @@
 # How I Built a Simple Retrieval-Augmented Generation Agent 
 ## on MindStudio
 
-1. **Create a datasource and upload some documents:** 
+**1\. Create a datasource and upload some documents:** 
 
 <img width="838" height="480" alt="Image" src="https://github.com/user-attachments/assets/929d474b-1ab3-406c-9beb-399bb8aa1157" />
 <br>I created an imaginary tech company with 5 flagship products.   
@@ -9,8 +9,8 @@ I generated documents detailing the critical information about the company and e
 Upload the documents under datasource and label the datasource with a title and description. 
 <br>    
 <br>  
-  
-2. **Start with a User Input block to collect the user query:**  
+
+**2\. Start with a User Input block to collect the user query:**  
 <img width="638" height="364" alt="Image" src="https://github.com/user-attachments/assets/08bc7bff-73be-4b4e-ba9a-712004be7584" />
 <br>Configure the User Input form with guidance for the user:
 
@@ -33,7 +33,7 @@ The generate text block is prompted using the query result variable, the user in
 some additional instruction to generate a response which is displayed to the user. 
 
 **6\. End with the Chat Block:**  
-**![][image6]**  
+<img width="849" height="582" alt="Image" src="https://github.com/user-attachments/assets/4139deed-7e63-4069-ad4b-cd5e7bbc9d47" />  
 A chat block with RAG strategy enabled in the message processing takes in the history of the run,   
 displays the response to the user, and allows the user to ask follow up questions. 
 
