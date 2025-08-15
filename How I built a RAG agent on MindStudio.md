@@ -6,11 +6,14 @@
 I created an imaginary tech company with 5 flagship products.   
 I generated documents detailing the critical information about the company and each document.   
 Upload the documents under datasource and label the datasource with a title and description. 
+<br>    
+<br>  
+  
+2. **Start with a User Input block to collect the user query:**  
+<img width="638" height="364" alt="Image" src="https://github.com/user-attachments/assets/08bc7bff-73be-4b4e-ba9a-712004be7584" />
+<br>Configure the User Input form with guidance for the user:
 
-2. **Start with a User Input block to collect the user query:**
 
-**![][image2]**  
-Configure the User Input form with guidance for the user:  
 **![][image3]**  
 Use the Label, Help, and Placeholder text to inform the user how to use the agent.   
 This is the first thing the user will see. 
