@@ -17,3 +17,19 @@ Quote Creator is a smart content assistant that instantly produces original insp
 * **Brands and Content Creators**: The contemporary social media landscape demands constant updates and diverse content formats. By automating the foundational element of faceless visual content creation, Quote Creator eliminates production bottlenecks, reduces creative overhead, and allows creators to allocate resources toward higher-value content development. 
 
 ---
+---
+
+# FollowUp Writer 
+
+## Built with Google’s Opal
+
+FollowUp Writer is an email draft agent that creates a message template with meeting notes or lecture summary from a video.
+
+## 🔗 [TRY IT OUT](https://opal.withgoogle.com/?flow=drive:/1_zZ2JQmcl-n4BWACZoXrg5FBHm_NkSQl&mode=app&shared=true)  
+
+**Who could use an agent like this?** 
+
+* **Teams and Organizations:** Record meetings and draft a draft a follow up email to all attendees based on the video  
+* **Students and Clubs:** Get a summary of lectures and lesson videos. 
+
+---
