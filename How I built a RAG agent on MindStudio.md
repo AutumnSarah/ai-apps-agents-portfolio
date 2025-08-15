@@ -14,7 +14,7 @@ Upload the documents under datasource and label the datasource with a title and 
 <br>Configure the User Input form with guidance for the user:
 
 
-**![][image3]**  
+<img width="1319" height="789" alt="Image" src="https://github.com/user-attachments/assets/4829f95c-ada6-40f7-a15c-a52ce4f0b9be" />  
 Use the Label, Help, and Placeholder text to inform the user how to use the agent.   
 This is the first thing the user will see. 
 
