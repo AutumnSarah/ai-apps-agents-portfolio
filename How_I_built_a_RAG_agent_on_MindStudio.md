@@ -1,4 +1,4 @@
-# How I Built a Simple Retrieval-Augmented Generation Agent 
+# How I Built a Simple Retrieval-Augmented Generation Agent  
 ## on MindStudio
 
 **1\. Create a datasource and upload some documents:** 
