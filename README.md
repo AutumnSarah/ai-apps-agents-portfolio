@@ -19,6 +19,23 @@ Quote Creator is a smart content assistant that instantly produces original insp
 ---
 ---
 
+# ArtForge Assistant 
+
+## Created with AWS PartyRock 
+
+The ArtForge Assistant is an all-in-one creative partner for digital AI artists and visual prompt engineers. The platform combines intelligent prompt analysis with practical troubleshooting to help artists refine their craft and build cohesive portfolios. 
+
+## 🔗 [TRY IT OUT](https://partyrock.aws/u/AutumnSarah/rv2ksgZI6/Artforge-Assistant)
+
+## **Who could use this app?** 
+
+* **Students and AI Enthusiasts:** Learn prompt engineering fundamentals, experiment with different artistic styles, and develop technical skills in AI-generated art creation. Perfect for those studying digital media, computer science, or anyone curious about the intersection of technology and creativity.  
+* **Digital Artists and Graphic Designers:** Enhance existing workflows by integrating AI tools, explore new creative possibilities, and streamline the ideation process. Useful for professionals looking to expand their skillset or incorporate AI assistance into client projects.  
+* **Content Creators:** Generate consistent visual assets for social media, blogs, marketing materials, and other content needs. Ideal for influencers, marketers, small business owners, and anyone who regularly needs original visual content but may lack traditional artistic training.
+
+---
+---
+
 # FollowUp Writer 
 
 ## Built with Google’s Opal
@@ -28,9 +45,11 @@ FollowUp Writer is an email draft agent that creates a message template with mee
 ## 🔗 [TRY IT OUT](https://opal.withgoogle.com/?flow=drive:/1_zZ2JQmcl-n4BWACZoXrg5FBHm_NkSQl&mode=app&shared=true)  
 <img width="1918" height="911" alt="Image" src="https://github.com/user-attachments/assets/76708462-d81f-4a41-b1a9-2624439b7691" />
 
-**Who could use an agent like this?** 
+## Who could use an agent like this? 
 
-* **Teams and Organizations:** Record meetings and draft a draft a follow up email to all attendees based on the video  
-* **Students and Clubs:** Get a summary of lectures and lesson videos. 
-
+* **Teams and Organizations:** Record meetings and draft follow-up emails to all attendees based on the video. Perfect for project managers, team leads, and administrators who need to ensure everyone stays aligned on action items, decisions, and next steps. Saves hours of manual note-taking and email composition while maintaining professional communication standards.  
+* **Students and Clubs:** Get summaries of lectures and lesson videos to reinforce learning and share key points with study groups or club members. Ideal for capturing complex academic content, creating study materials from recorded classes, or distributing meeting highlights to organization members who couldn't attend.  
+* **Sales and Client Relations:** Transform client calls and sales meetings into professional follow-up communications that recap discussions, confirm agreements, and outline next steps. Helps maintain consistent client communication and ensures no important details are lost between meetings.  
+* **Consultants and Freelancers:** Convert client consultation sessions into clear project summaries and action plans. Useful for documenting scope discussions, presenting recommendations, and maintaining transparent communication with multiple clients across different projects.  
+* **Training and HR Professionals:** Create comprehensive summaries of training sessions, workshops, and performance reviews. Streamlines documentation processes and ensures consistent communication of policies, procedures, and development plans to team members. 
 ---
