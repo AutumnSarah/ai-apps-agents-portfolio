@@ -2,7 +2,8 @@
 
 1. **Create a datasource and upload some documents:** 
 
-![][image1]  
+<img width="629" height="362" alt="Image" src="https://github.com/user-attachments/assets/d4a12d5f-e17e-4408-9092-16024ba79eb3" />   
+
 I created an imaginary tech company with 5 flagship products.   
 I generated documents detailing the critical information about the company and each of its products.   
 Upload the documents under datasource and label the datasource with a title and description. 
