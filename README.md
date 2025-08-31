@@ -1,6 +1,37 @@
 # ai-apps-agents-portfolio
 ---
 
+# Professional Curriculum Developer
+
+## Built with Mindstudio
+
+The 2025 "Personal Curriculum" trend is reshaping how we think about self-directed learning 📚
+
+One of TikTok's latest trends has users creating structured learning plans for themselves by designing structured deep dives into anything from Renaissance art to behavioral psychology, complete with book lists, documentaries, and hands-on projects.
+
+It's not your typical self-help content. There is a clear emphasis on systematic, intentional learning. By putting themselves back into the shoes of a student, and creating syllabi they'd actually want to take.
+
+The trend reflects a craving for structured, meaningful learning experiences that go beyond surface-level consumption and actually develop expertise in areas people care about.
+
+For professionals, this mindset shift is worth noting. How can you approach skill-building with this same intentionality? Create your own learning frameworks rather than waiting for on the job training.
+
+Since my deep dive into AI workflows with [MindStudio](https://www.linkedin.com/company/mindstudioai/), I was able to create a tool that takes the guess work out of "Personal Professional Curriculum" development.
+
+Upload your resume, answer two simple questions, and receive a weekly study plan, portfolio project suggestions, and a clickable reading list tailored to you professional goals and desired timeline.  This agent is a useful tool for self-motivated learners who thrive with clear structure but want personalization that generic courses can't provide.
+
+## 🔗 [Try it Out](https://app.mindstudio.ai/agents/professional-curriculum-developer-8db891b3)  Who could use such an agent? 
+
+* **Career Changers** looking to systematically bridge skill gaps when transitioning to new industries or roles \- from marketing professionals moving into UX design to finance experts pivoting to data science.  
+* **Mid-Level Professionals** who feel stuck in their current trajectory and want to strategically upskill without the guesswork of figuring out what to learn next or in what order.  
+* **Recent Graduates** seeking to supplement their formal education with practical, industry-relevant skills that make them more competitive in their chosen field.  
+* **Freelancers and Consultants** who need to stay current with evolving industry standards and expand their service offerings to remain competitive in the marketplace.  
+* **Remote Workers** who miss the structured learning environment of traditional offices and want to create their own professional development framework.  
+* **Entrepreneurs** building expertise in areas outside their core background \- like a technical founder learning marketing fundamentals or a creative professional developing business acumen.  
+* **Returning Professionals** re-entering the workforce after time away who need to update their skills and knowledge base in a structured, confidence-building way.
+
+---
+---
+
 # Quote Creator 
 
 ## Built with Mindstudio
