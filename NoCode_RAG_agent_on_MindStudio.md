@@ -10,24 +10,28 @@ Upload the documents under datasource and label the datasource with a title and 
 
 2. **Start with a User Input block to collect the user query:**
 
-**![][image2]**  
+<img width="857" height="448" alt="Image" src="https://github.com/user-attachments/assets/f83d27db-1753-45fb-9c0d-fc34764f92d7" />  
+
 Configure the User Input form with guidance for the user:  
-**![][image3]**  
+<img width="631" height="379" alt="Image" src="https://github.com/user-attachments/assets/4897e98f-a847-49e3-9971-a054c36bd6ef" />   
+
 Use the Label, Help, and Placeholder text to inform the user how to use the agent.   
 This is the first thing the user will see. 
 
 **3\. Use a logic step to check the relevance of the user query to the Agent’s purpose.**   
-**![][image4]**
+<img width="859" height="413" alt="Image" src="https://github.com/user-attachments/assets/78f6890d-2f71-4d64-9363-f596ced7d6c8" />  
 
 **4\. Query Data Source:**  
-**![][image5]**  
+<img width="820" height="492" alt="Image" src="https://github.com/user-attachments/assets/4bdcd258-2ac4-4bef-a52c-f6e8641e5ce9" />  
+
 Make a model call to transform the user query into a vector database query.  
 Use the {{enhanced\_query}} to query the datasource.   
 The agent will search the data source for chunks of text that can be used to answer the query.   
 The result is saved to a variable named {{context\_chunks}}. 
 
 **5\. Format a response for the user:**  
-**![][image6]**  
+<img width="882" height="441" alt="Image" src="https://github.com/user-attachments/assets/e39df766-5194-48dd-969c-0704812a0608" />  
+
 A model prompted using the query result variable, the user input variable, and   
 some additional instruction to generate a response which is displayed to the user. 
 
