@@ -19,7 +19,9 @@ Since my deep dive into AI workflows with [MindStudio](https://www.linkedin.com/
 
 Upload your resume, answer two simple questions, and receive a weekly study plan, portfolio project suggestions, and a clickable reading list tailored to you professional goals and desired timeline.  This agent is a useful tool for self-motivated learners who thrive with clear structure but want personalization that generic courses can't provide.
 
-## 🔗 [Try it Out](https://app.mindstudio.ai/agents/professional-curriculum-developer-8db891b3)  Who could use such an agent? 
+## 🔗 [Try it Out](https://app.mindstudio.ai/agents/professional-curriculum-developer-8db891b3)  
+
+## **Who could use such an agent?**
 
 * **Career Changers** looking to systematically bridge skill gaps when transitioning to new industries or roles \- from marketing professionals moving into UX design to finance experts pivoting to data science.  
 * **Mid-Level Professionals** who feel stuck in their current trajectory and want to strategically upskill without the guesswork of figuring out what to learn next or in what order.  
