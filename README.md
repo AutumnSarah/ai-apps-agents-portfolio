@@ -52,6 +52,29 @@ Quote Creator is a smart content assistant that instantly produces original insp
 * **Corporate Teams and HR Departments:** Organizations can use customized versions to create internal motivation content, company value reminders, and team-building messages that maintain brand consistency while boosting workplace morale and culture.  
 * **Non-Profit Organizations:** Mission-driven organizations can generate inspiring content that communicates their values, shares success stories, and motivates supporters—all while maintaining visual consistency with their cause and brand identity.
 ---
+# AInfluanceHub 
+
+## Created with AWS Partyrock
+
+A virtual influencer coach app with an integrated chatbot designed to assist creators who want to use AI to create characters or personalities to function as social media influencers.  It helps  create, develop, and manage AI-powered virtual influencer personalities and offers guidance on character development, visual prompt engineering, content planning, and social media strategy. It is designed to transform the user's character description into a fully detailed persona profile and social media plan.  The Influencer coach chatbot is able to answer questions about Generative AI tools, help refine prompts, and give advice on creating consistent storylines for the character personas. 
+
+## 🔗 → [Test it out](https://partyrock.aws/u/AutumnSarah/YocT5klyZ/AInfluenceHub)  
+
+## **Who could use this app?**
+
+* **Marketing Agencies and Brand Strategists:** Create virtual brand ambassadors for clients who want to test controversial campaigns, enter niche markets, or maintain consistent messaging without celebrity endorsement risks. Perfect for agencies serving clients in regulated industries where human influencers might create compliance issues.
+
+* **Entertainment and Media Companies:** Develop virtual characters for transmedia storytelling, create promotional personalities for upcoming releases, or establish long-term digital assets that can appear across multiple projects without scheduling conflicts or contract negotiations.
+
+* **E-commerce and Product Developers:** Test market reactions to products through virtual influencers before investing in human partnerships. Create niche-specific personas that can authentically represent specialized products in communities where traditional advertising falls flat.
+
+* **Independent Content Creators and Entrepreneurs:** Solo creators who want to scale their presence across multiple platforms, explore different audience segments, or maintain content production during personal downtime. Perfect for creators testing new niches without risking their established personal brand.
+
+* **Research and Academic Institutions:** Study social media behavior, test psychological responses to different personality types, or conduct marketing research using controlled virtual personas that eliminate human variables in social media experiments.
+
+* **Gaming and Virtual World Companies:** Create promotional characters for games, establish lore-consistent personalities for virtual worlds, or develop AI-driven NPCs that can engage with real audiences across social platforms to build community engagement.
+
+---
 ---
 
 # ArtForge Assistant 
