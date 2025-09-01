@@ -52,7 +52,7 @@ Quote Creator is a smart content assistant that instantly produces original insp
 * **Corporate Teams and HR Departments:** Organizations can use customized versions to create internal motivation content, company value reminders, and team-building messages that maintain brand consistency while boosting workplace morale and culture.  
 * **Non-Profit Organizations:** Mission-driven organizations can generate inspiring content that communicates their values, shares success stories, and motivates supporters—all while maintaining visual consistency with their cause and brand identity.
 ---
-# AInfluanceHub 
+# AInfluenceHub 
 
 ## Created with AWS Partyrock
 
