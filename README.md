@@ -4,7 +4,7 @@
 # Professional Curriculum Developer
 
 ## Built with Mindstudio
-
+<img width="1200" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3da88f9d-9c8c-45ae-8a86-fe949f26db79" />
 The 2025 "Personal Curriculum" trend is reshaping how we think about self-directed learning 📚
 
 One of TikTok's latest trends has users creating structured learning plans for themselves by designing structured deep dives into anything from Renaissance art to behavioral psychology, complete with book lists, documentaries, and hands-on projects.
